@@ -1,6 +1,6 @@
 # My dotfiles repository
 
-## Install with stow:
+**Install with stow:**
 
 ```
 stow .
