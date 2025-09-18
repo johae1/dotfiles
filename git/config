@@ -1,0 +1,7 @@
+[init]
+	defaultBranch = main
+[user]
+	name = Jonas Haese
+	email = haese.jonas@gmx.de
+[includeIf "gitdir:~/uni/"]
+	path = ~/.config/config_uni
