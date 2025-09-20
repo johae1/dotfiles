@@ -1,1 +1,5 @@
+# set the theme
 --theme="Catppuccin Mocha"
+
+# set default-style
+--style="changes,header,header-filesize,grid,numbers,snip"
